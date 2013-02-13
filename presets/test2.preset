@@ -1,0 +1,20 @@
+<Cluster>
+<Name>Movement controls</Name>
+<NumElts>4</NumElts>
+<I32>
+<Name>Nx</Name>
+<Val>13</Val>
+</I32>
+<I32>
+<Name>Ny</Name>
+<Val>7</Val>
+</I32>
+<I32>
+<Name>X separation</Name>
+<Val>94</Val>
+</I32>
+<I32>
+<Name>Y separation</Name>
+<Val>105</Val>
+</I32>
+</Cluster>
